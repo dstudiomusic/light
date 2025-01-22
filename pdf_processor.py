@@ -22,7 +22,3 @@ def save_pdf_to_db(pdf_path):
     conn.close()
 
     print(f"Файл {filename} успешно загружен в базу данных!")
-
-# Пример использования
-pdf_path = "example.pdf"  # Укажите путь к вашему PDF-файлу
-save_pdf_to_db(pdf_path)
