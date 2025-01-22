@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from pdf_processor import save_pdf_to_db
 
-API_TOKEN = "ВАШ_ТОКЕН"
+API_TOKEN = "7888051694:AAGLYPL0UYtX_WrdrNcJ0vr5RNVbtdIrVx4"
 
 logging.basicConfig(level=logging.INFO)
 
