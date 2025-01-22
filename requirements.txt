@@ -1,0 +1,6 @@
+aiogram
+openai
+Pillow
+opencv-python
+speechrecognition
+pyttsx3
